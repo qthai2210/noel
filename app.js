@@ -407,9 +407,9 @@ $(document).ready(function () {
     $icon = $(".icon"),
     cartPageBottomP = document.querySelector(".cart-page-bottom p"),
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
-    let textTitle = "Gửi em!";
+    let textTitle = "Gửi fuong!";
     let charArrTitle = textTitle.split('');
-let text = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus architecto beatae corporis veritatis dolorum tenetur pariatur illum excepturi quaerat. Voluptate harum suscipit, ea consequuntur voluptatem quam error eligendi beatae vero?"
+let text = "Giáng sinh vui vẻ nhá! cố gắng thi thật tốt để được mục tiêu của mình nha! I believe you !!"
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
