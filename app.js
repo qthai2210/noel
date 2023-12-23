@@ -409,7 +409,7 @@ $(document).ready(function () {
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
     let textTitle = "Gửi fuong!";
     let charArrTitle = textTitle.split('');
-let text = "Giáng sinh vui vẻ nhá! cố gắng thi thật tốt để được mục tiêu của mình nha! I believe you !!"
+let text = "Hmmmm... Chưa bao giờ anh mặt dày dị luôn... Chúc cô gái cung Song tử cố gắng thi thật tốt để đạt được mục tiêu của mình nha! (để có một mùa đông không lạnh đó ^.^)  Không biết anh bị sao mà lần này là chúc thứ mấy em thi tốt ời chắc tại không biết gì nhiều về em nên là đừng có bơ anh nữa nha... ! Giáng sinh vui vẻ nhá! I believe you !!"
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
